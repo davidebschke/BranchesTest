@@ -9,7 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
 
 
+    public String sayWelcome(){
 
+
+        return "Welcome to my new Branch";
+    }
 
 
 
