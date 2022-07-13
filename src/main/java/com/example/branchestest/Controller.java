@@ -14,7 +14,7 @@ public class Controller {
     public String sayWelcome(){
 
 
-        return "Welcome to my new Branch";
+        return "Welcome to my Branch";
 
     }
 
